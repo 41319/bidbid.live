@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{"4l6N":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),u=t.n(a),c=t("cl0r");t("zpb6");n.default=function(){var e=Object(a.useState)(null);e[0],e[1];return u.a.createElement(c.a,null,"eeee")}}}]);
-//# sourceMappingURL=component---src-pages-room-index-js-385492255f9ae41a45cc.js.map
