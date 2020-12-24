@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{TCxs:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),r=e.n(a);t.default=function(){return r.a.createElement(r.a.Fragment,null,"test")}}}]);
-//# sourceMappingURL=component---src-pages-account-test-js-bc6f23d260db3f9aed89.js.map
