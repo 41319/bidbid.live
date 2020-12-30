@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Component"],"mappings":"4FAAA,gCAMeA,UAJG,WAChB,OAAO","file":"component---src-pages-404-js-03b378c04417348c112d.js","sourcesContent":["import React from \"react\";\n\nconst Component = () => {\n  return <>Page is in Progress</>;\n};\n\nexport default Component;\n"],"sourceRoot":""}
