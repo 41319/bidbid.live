@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{"fD+R":function(e,t,n){"use strict";n.r(t);var c=n("q1tI"),r=n.n(c),a=n("UVqP"),u=n("LXcg");t.default=function(){var e=Object(c.useState)([]),t=e[0],n=e[1];return Object(c.useEffect)((function(){console.log("finding store"),Object(u.m)().then((function(e){return n(e.filter((function(e){return e.get("display")})))}))}),[]),r.a.createElement(r.a.Fragment,null,!!t.length&&r.a.createElement(a.a,{publicPage:!0,stores:t}))}}}]);
-//# sourceMappingURL=component---src-pages-login-2-js-911d7fc36ecc8f60372a.js.map
