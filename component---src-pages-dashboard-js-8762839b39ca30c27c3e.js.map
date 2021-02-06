@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/dashboard.js"],"names":["Component"],"mappings":"4FAAA,gCAMeA,UAJG,WAChB,OAAO","file":"component---src-pages-dashboard-js-8762839b39ca30c27c3e.js","sourcesContent":["import React from \"react\";\n\nconst Component = () => {\n  return <>dashboard</>;\n};\n\nexport default Component;\n"],"sourceRoot":""}
