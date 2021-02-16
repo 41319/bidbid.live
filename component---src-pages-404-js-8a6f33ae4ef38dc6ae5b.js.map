@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Component"],"mappings":"4FAAA,gCAMeA,UAJG,WAChB,OAAO","file":"component---src-pages-404-js-8a6f33ae4ef38dc6ae5b.js","sourcesContent":["import React from \"react\";\n\nconst Component = () => {\n  return <></>;\n};\n\nexport default Component;\n"],"sourceRoot":""}
