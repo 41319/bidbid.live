@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[672],{235:function(t,n,e){e.r(n);var a=e(7294);n.default=function(){var t=(0,a.useState)(""),n=t[0],e=t[1];return(0,a.useEffect)((function(){fetch("https://random-data-api.com/api/bank/random_bank").then((function(t){return t.json()})).then((function(t){return e(t)}))}),[]),a.createElement("main",null,JSON.stringify(n))}}}]);
+//# sourceMappingURL=component---src-pages-test-js-d66076c69f76f98ce5b1.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-f062bb84cf03118ada6c.js","mappings":"kKAMA,UAJkB,WAChB,OAAO","sources":["webpack://gatsby-starter-hello-world/./src/pages/404.js"],"sourcesContent":["import React from \"react\";\n\nconst Component = () => {\n  return <></>;\n};\n\nexport default Component;\n"],"names":[],"sourceRoot":""}
